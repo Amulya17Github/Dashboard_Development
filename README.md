@@ -1,0 +1,2 @@
+# Dashboard_Development
+Dashboard development on social media addiction visualizes survey and usage data to highlight patterns in screen time, engagement, and behavioral impact. By presenting insights through interactive charts and metrics, it helps identify trends, compare demographics, and support awareness on digital well-being.
